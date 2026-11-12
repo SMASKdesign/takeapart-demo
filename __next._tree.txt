@@ -1,0 +1,4 @@
+:HL["/takeapart-demo/_next/static/chunks/27j25si_wls75.css","style"]
+:HL["/takeapart-demo/_next/static/chunks/3jmite4wc7se4.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"_W8w_uDE0zCMELCJzTiMB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,5 @@
+:HL["/takeapart-demo/_next/static/chunks/27j25si_wls75.css","style"]
+:HL["/takeapart-demo/_next/static/chunks/1plho8imr6ju4.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"ring360","h":96,"c":"$Q2"}]]
+0:{"b":"_W8w_uDE0zCMELCJzTiMB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
